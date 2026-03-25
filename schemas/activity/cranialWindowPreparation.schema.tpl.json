@@ -2,7 +2,7 @@
   "_type": "specimenPrep:CranialWindowPreparation",
   "_extends": "/core/schemas/research/experimentalActivity.schema.tpl.json",
   "required": [
-    "constructionType"
+    "constructionType" 
   ],
   "properties": {
     "constructionType": {
